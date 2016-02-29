@@ -241,6 +241,7 @@ function create_config( )
       "spam",
       "spanish_lang",
       "version",
+      "chatbot",
       "italian_lang",
       "arabic"
      },
