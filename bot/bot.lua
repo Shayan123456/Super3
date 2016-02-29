@@ -236,6 +236,7 @@ function create_config( )
       "id",
       "moderation",
       "plugins",
+      "calc",
       "persian_lang",
       "settings",
       "spam",
