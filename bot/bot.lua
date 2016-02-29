@@ -244,6 +244,7 @@ function create_config( )
       "emojilock",
       "sms",
       "support",
+      "date",
       "text",
       "time",
       "webshot",
